@@ -1,0 +1,65 @@
+body{
+	background: #2BC0E4;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #EAECC6, #2BC0E4);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #EAECC6, #2BC0E4);
+}
+
+.body{
+	background : #b5b5b5;
+	margin: 7% auto;
+	width: 300px;
+	font-family: 'Lato', sans-serif;
+	border: none;
+	text-shadow : 0 2px 1px rgba(0,0,0,0.2);
+				  0 2px 1px rgba(0,0,0,0.1);
+				  0 2px 1px rgba(0,0,0,0.1);
+}
+
+h2 {
+	line-height: 1.8em;
+	width : 100%;
+	text-align: center;
+	background: #777799;
+	height: 100%;
+	margin : 0;
+	font-weight: normal;
+	text-transform: uppercase;
+}
+
+.input{
+	margin: 0;
+	width : 100px;
+	border : none;
+	line-height : 1.6em;
+	text-align: justify;
+	padding: 0 10px;
+}
+
+input{
+	padding: 0 10px;
+	width: 100%;
+	line-height : 1.8em;
+	box-sizing: border-box
+}
+
+button{
+	text-align: center;
+	width: 100px;
+	height: 40px;
+	}
+
+
+h1{
+	font-family: 'Merriweather', serif;
+	text-align : center;
+	text-shadow: 0 0 0.2 rgb(200,200,200);
+	font-color : #f554a8;
+	text-decoration: overline;
+	text-shadow : 0 4px 3px rgba(0,0,0,0.4);
+				  0 4px 3px rgba(0,0,0,0.1);
+				  0 4px 3px rgba(0,0,0,0.1);
+	padding-top: 50px;
+	font-size: 35px;
+	font-stretch: 10px
+
+}
